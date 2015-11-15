@@ -1,0 +1,2 @@
+# novown
+Ownership Redefined
