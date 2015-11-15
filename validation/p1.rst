@@ -7,12 +7,13 @@ Novown: Ownership Redesigned
 
 Product Idea Summary
 ---------------------
-We sometime need to buy a comsumer product that is only needed 
-for a short period of time (e.g: a guitar for weekly music lesson). 
-This is inconvenient given the low usage frequency of the consumer product and 
-it's high price (say, ~1500$ CAD). The problem is summarized as *needing access 
-to consumer products for a short period of time and at a low price*.
+You need to buy a comsumer product, but you only need
+it for a short period of time (e.g: a guitar for a weekly music lesson). 
+This is inconvenient given the low usage frequency of the product 
+relative to it's high price (say, ~1500$ CAD). The problem is summarized as 
+*needing access to consumer products for a short period of time and at a low 
+price*.
 
-Novown is a *microrenting* platform that solves this problem by *connecting
-users to a pool of consumer products owned by lenders willing to lease their
-property for short periods of time*.
+A *microrenting* platform solves this problem by *allowing
+users to browse a catalog of consumer products owned by lenders willing to lease
+their property for short periods of time*.
