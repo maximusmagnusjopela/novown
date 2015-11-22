@@ -22,4 +22,8 @@ Testers will be recruited through direct approaches at the following venues:
 They will be offered a free coffee + something to eat for an approximative value 
 of 10$.
 
+When
+----
+User testing will take place on sunday December 20th 2015.
+
 

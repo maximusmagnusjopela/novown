@@ -24,16 +24,19 @@ Deliverables
 Logistics
 +++++++++
 
-:Who: Imperial Information Systems Corporation 
+:Who: Imperial Information Systems
       Engineering team.
 
-:When: November 22 2015 (6hrs), November 25 2015 (3hrs), 
+:When: November 25 2015 (3hrs), 
        November 28 2015 (3hrs), November 29 2015 (6hrs),
        December 2 2015 (3hrs), December 5 2015 (3hrs),
        December 6 2015 (6hrs), December 9 2015 (3hrs),
        December 12 2015 (3hrs), December 13 2015 (6hrs),
        December 16 2015 (3hrs), December 19 2015 (3hrs),
        December 20 2015 (6hrs)
+
+:Where: Imperial Information Systems Headquarters, Montreal Quebec.
+
 
 Timeline
 ++++++++
@@ -62,25 +65,37 @@ Roadblocks or gaps
 ~~~~~~~~~~~~~~~~~~
 The team has no experience in UX design and no experience
 in UI design. The learning curve will therefore be steep
-and there will likely be mistake mades along the road to
+and there will likely be mistakes made along the road to
 the produce the sprint deliverables due to that inexperience.
 
 Path from sprint to prototype
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 The sprint point the team towards a prototype by constructing
 user journey for 2 types of users: the renters and the lenders.
-Both of these journey will be included in 2 interactive prototype; one
-for a mobile app and the other for a web app.
+Both of these journey will be included in an interactive prototype for a web 
+application.
 
 Sprint Agenda
 +++++++++++++
 
-This sprint agenda is a tentative schedule for the design sprint. It is subject
-to change
-
-November 22 2015
+November 25 2015
 ~~~~~~~~~~~~~~~~
-1. Goal 
+0. Define Problem Statement (understand)
+1. Market research (understand)
+2. Define customer profile (understand)
+3. Define Key user needs (understand)
+4. Assess technical feasibility (understand)
+
+November 28 2015
+~~~~~~~~~~~~~~~~
+0. Create a list of critical user tasks (Define)
+1. Create different user journeys for the renters, including a golden path 
+   (Define)
+2. Create different user journeys for the lenders, including the golden path
+   (Define)
+3. Establish 3+ key metrics that will help track product
+   success
+
 
 
 
